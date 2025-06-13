@@ -2,7 +2,6 @@ from datetime import datetime, timedelta
 import csv
 import time
 import logging
-import sys
 from config import (
     USERNAME,
     PASSWORD,
